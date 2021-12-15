@@ -1,0 +1,3 @@
+/mnt/c/users/lidia/iep/iep/tema_1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/lidia/iep/iep/tema_1/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/lidia/iep/iep/tema_1/build/CMakeFiles/hello.dir

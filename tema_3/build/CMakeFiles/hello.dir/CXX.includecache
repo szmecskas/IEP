@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/users/lidia/iep/iep/tema_1/src/main.cpp
+iostream
+-
+cstring
+-
+
+/mnt/c/users/lidia/iep/iep/tema_1/src/main1.cpp
+iostream
+-
+main.cpp
+/mnt/c/users/lidia/iep/iep/tema_1/src/main.cpp
+cstring
+-
+
